@@ -1,0 +1,114 @@
+{
+	"1": [
+			[true,  3, 2, 0, "yellow"],
+			[true,  3, 5, 3, "blue"],
+			[false, 2, 0, 2, "red"],
+			[false, 3, 0, 3, "purple"],
+			[false, 2, 4, 0, "limegreen"]
+	],
+	"2": [
+			[true,  3, 2, 0, "yellow"],
+			[true,  3, 5, 1, "purple"],
+			[true,  2, 3, 3, "limegreen"],
+			[false, 2, 3, 2, "red"],
+			[false, 2, 4, 4, "orange"],
+			[false, 3, 0, 3, "blue"]
+	],
+	"3": [
+			[true,  2, 0, 0, "limegreen"],
+			[true,  2, 1, 0, "orange"],
+			[true,  2, 4, 0, "pink"],
+			[true,  2, 2, 2, "darkgreen"],
+			[true,  3, 3, 2, "yellow"],
+			[true,  2, 2, 4, "khaki"],
+			[true,  2, 4, 3, "lightgrey"],
+			[false, 2, 0, 2, "red"],
+			[false, 2, 2, 0, "lightblue"],
+			[false, 2, 2, 1, "purple"]
+	],
+	"4": [
+			[true,  2, 0, 4, "lightblue"],
+			[true,  2, 1, 4, "pink"],
+			[true,  2, 2, 4, "violet"],
+			[true,  2, 2, 1, "lightgreen"],
+			[true,  3, 4, 1, "yellow"],
+			[true,  2, 5, 2, "orange"],
+			[false, 3, 0, 3, "purple"],
+			[false, 2, 4, 4, "darkgreen"],
+			[false, 2, 4, 5, "lightgrey"],
+			[false, 2, 0, 2, "red"]
+	],
+	"5": [
+			[true,  2, 0, 4, "orange"],
+			[true,  2, 2, 4, "lightblue"],
+			[true,  3, 4, 1, "blue"],
+			[true,  2, 5, 2, "limegreen"],
+			[false, 2, 4, 4, "pink"],
+			[false, 2, 4, 5, "violet"],
+			[false, 3, 2, 0, "yellow"],
+			[false, 3, 0, 1, "purple"],
+			[false, 3, 0, 3, "green"],
+			[false, 2, 0, 2, "red"]
+	],
+	"6": [
+			[true,  2, 5, 1, "limegreen"],
+			[true,  3, 5, 3, "violet"],
+			[true,  2, 0, 3, "orange"],
+			[true,  2, 3, 4, "purple"],
+			[true,  2, 4, 4, "darkgreen"],
+			[true,  3, 2, 1, "yellow"],
+			[false, 3, 0, 5, "green"],
+			[false, 2, 1, 4, "pink"],
+			[false, 2, 3, 3, "lightblue"],
+			[false, 2, 0, 2, "red"]
+	],
+	"7": [
+			[true,  3, 4, 0, "yellow"],
+			[true,  2, 5, 1, "orange"],
+			[true,  2, 3, 4, "pink"],
+			[true,  2, 2, 3, "lightblue"],
+			[false, 2, 4, 4, "purple"],
+			[false, 2, 4, 5, "darkgreen"],
+			[false, 3, 1, 1, "violet"],
+			[false, 3, 3, 3, "blue"],
+			[false, 2, 2, 0, "limegreen"],
+			[false, 2, 2, 2, "red"]
+	],
+	"8" : [
+			[true,  2, 2, 0, "orange"],
+			[true,  2, 3, 0, "lightblue"],
+			[true, 2, 4, 1, "green"],
+			[true, 2, 5, 1, "grey"],
+			[true, 3, 1, 2, "yellow"],
+			[false, 2, 0, 0, "limegreen"],
+			[false, 2, 0, 1, "purple"],
+			[false, 2, 4, 0, "pink"],
+			[false, 3, 3, 4, "violet"],
+			[false, 2, 2, 2, "red"]
+	],
+	"9": [
+			[true,  2, 0, 0, "limegreen"],
+			[true,  2, 3, 0, "lightblue"],
+			[true,  2, 5, 1, "purple"],
+			[true,  2, 5, 3, "grey"],
+			[true,  2, 2, 1, "pink"],
+			[true,  2, 2, 4, "khaki"],
+			[false, 3, 2, 3, "yellow"],
+			[false, 2, 1, 0, "orange"],
+			[false, 2, 0, 3, "darkgreen"],
+			[false, 2, 0, 2, "red"]
+	],
+	"10": [
+			[true,  3, 1, 0, "yellow"],
+			[true,  2, 1, 3, "pink"],
+			[true,  2, 3, 3, "purple"],
+			[true,  2, 5, 1, "lightblue"],
+			[true,  2, 4, 4, "grey"],
+			[true,  2, 5, 4, "khaki"],
+			[false, 2, 2, 0, "limegreen"],
+			[false, 2, 4, 0, "orange"],
+			[false, 2, 4, 3, "darkgreen"],
+			[false, 3, 1, 5, "violet"],
+			[false, 2, 3, 2, "red"]
+	]
+}

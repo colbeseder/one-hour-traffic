@@ -1,0 +1,10 @@
+#board td {
+	height: 80px;
+	width: 80px;
+	border: solid 1px black;
+	margin: 0px;
+	padding: 0px;
+}
+#board td.gate {
+	border-right: dashed 5px maroon;
+}
